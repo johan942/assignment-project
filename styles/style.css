@@ -58,15 +58,15 @@ nav{
     font-weight: bold;
 }
 
-
-main{
+body{
     max-width: 1140px;
-    /* margin: 0 auto; */
+}
+main{
+    /* max-width: 1140px; */
+    margin: 0 auto;
 
 }
-section{
-    margin: 0 auto;
-}
+
 
 /* preview section style */
 .preview-section{
