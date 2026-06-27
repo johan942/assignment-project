@@ -1,5 +1,5 @@
 body{
-    margin: 0 auto;
+
     background-color: rgba(229, 227, 255, 0.299);
 }
 
@@ -58,11 +58,8 @@ nav{
     font-weight: bold;
 }
 
-body{
-    max-width: 1140px;
-}
 main{
-    /* max-width: 1140px; */
+    max-width: 1140px;
     margin: 0 auto;
 
 }
